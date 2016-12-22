@@ -15,6 +15,6 @@ Include the file bootstrap-ns.css (in dist/css) in your project like you would t
 
 `<link rel="stylesheet" href="css/bootstrap-ns.min.css">`
 
-Use Bootstrap as usual, but add the twbs class to the element under which you want Bootstrap CSS to be applied. To include the entire document, add it to the `HEAD` tag, e.g.:
+Use Bootstrap as usual, but add the twbs class to the element under which you want Bootstrap CSS to be applied. To include the entire document, add it to the `HTML` tag, e.g.:
 
-`<head class="twbs">`
+`<html class="twbs">`
