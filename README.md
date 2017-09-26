@@ -3,7 +3,7 @@ Namespaced Twitter Bootstrap CSS
 
 ## What is this?
 
-Twitter Bootstrap v4.0.0-alpha.5 compiled with a 'namespacing' class *.twbs*. The process is described here: https://medium.com/@JonasJancarik/namespacing-bootstrap-css-419961f4d1f8
+Twitter Bootstrap v4.0.0-beta compiled with a 'namespacing' class *.twbs*. (If you are interested, the process for an earlier version (v4.0.0-alpha.5) of Bootstrap 4 is described here: https://medium.com/@JonasJancarik/namespacing-bootstrap-css-419961f4d1f8 - not valid for v4.0.0-beta.)
 
 ## What is this good for?
 
