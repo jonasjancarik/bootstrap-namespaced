@@ -3,7 +3,7 @@ Namespaced Twitter Bootstrap CSS
 
 ## What is this?
 
-Twitter Bootstrap v4.0.0-beta compiled with a 'namespacing' class *.twbs*. (If you are interested, the process for an earlier version (v4.0.0-alpha.5) of Bootstrap 4 is described here: https://medium.com/@JonasJancarik/namespacing-bootstrap-css-419961f4d1f8 - not valid for v4.0.0-beta.)
+Twitter Bootstrap v4.0.0 compiled with a 'namespacing' class *.twbs*.
 
 ## What is this good for?
 
@@ -18,3 +18,11 @@ Include the file bootstrap-ns.css (in dist/css) in your project like you would t
 Use Bootstrap as usual, but add the twbs class to the element under which you want Bootstrap CSS to be applied. To include the entire document, add it to the `HTML` tag, e.g.:
 
 `<html class="twbs">`
+
+### Want to use your own class name?
+
+Find and replace `.twbs` in `dist/css/bootstrap-ns.css` and `dist/css/bootstrap-ns.min.css`.
+
+## How was this made?
+
+The process is described here: https://medium.com/@JonasJancarik/namespacing-bootstrap-css-419961f4d1f8
